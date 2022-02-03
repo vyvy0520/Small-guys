@@ -3,14 +3,20 @@
 Small Guys
 
 **Group member**
+  
   Minh Ngo (Minh61@my.yorku.ca)
+  
   Vy Le (vyvy0520@my.yorku.ca)
+  
   Gracie Zhou (gz1342@my.yorku.ca)
   
+  
 **Overview**
+
 This app can help everyone count their calories they need to consume in a day. In addition, it can help them count the BMI and Fat percent in their body. Through all the gathered data, our app can come up and provide a plan  for users to have a good diet as long as the exercises workout with the proper plan. Furthermore, This app also makes a level from basic to Advanced to help the trainer not feel panic when they start to plan their diet. I hope with this app people can make a good plan to diet and have a good body in the future.
 
 **Functional Requirements**
+
 When the app is first opened, it will display “Welcome to our fitness and diet app!” in bold at the top of the screen. 
 A fitness image will be displayed at the middle of the screen.
 Right below the image, the app will ask you “How can we help you?” and there will be 3 choices to choose from and they are all listed in a bulleted list in multiple choice format: “I want to lose weight”, “I want to maintain my weight”, and “I want to gain weight”.
